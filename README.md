@@ -1,4 +1,4 @@
-# Hyperbolic-Heat Recommender (MVP)
+# Hyperbolic Recommender (MVP)
 
 This project was inspired by my research in Cornell's RelaxML Laboratory. 
 
