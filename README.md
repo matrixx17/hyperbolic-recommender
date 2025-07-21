@@ -2,7 +2,7 @@
 
 This project was inspired by my research in Cornell's RelaxML Laboratory. 
 
-HyperRec is a hierarchy-aware item-to-item recommendation system that run **entirely on CPU** and answer in **\< 10 ms** using 33-dim hyperbolic embeddings and an HNSW index.
+HyperRec is a hierarchy-aware item-to-item recommendation system that runs entirely on CPU and answers queries in < 10 ms using 33-dim hyperbolic embeddings and an HNSW index.
 
 ---
 
