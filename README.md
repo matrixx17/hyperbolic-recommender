@@ -16,4 +16,4 @@ HyperRec is a hierarchy-aware item-to-item recommendation system that runs entir
 ---
 
 
-While the MVP is functional in its current state, I'm currently working on some refinements to improve functionality. Installation instructions will be added soon. 
+While the MVP is usable in its current state, I'm currently working on some refinements to improve functionality. Installation instructions will be added soon. 
